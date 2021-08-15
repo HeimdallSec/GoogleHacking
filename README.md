@@ -1,2 +1,6 @@
 # Começando os estudos sobre Google hacking...
 > Aproveitar para ver algumas coisas sobre markdown...
+
+O Google é uma ferramenta extremamente poderosa por conta de
+sua alta capacidade de indexação de páginas, o que aumenta as
+possibilidades de buscas.
